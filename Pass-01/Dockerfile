@@ -1,6 +1,6 @@
 FROM upload-labs
 
-MAINTAINER chen <root@YGLF.nofork>
+MAINTAINER YGLF <root@YGLF.nofork>
 ENV LC_ALL C.UTF-8
 ENV TZ=Asia/Shanghai
 
